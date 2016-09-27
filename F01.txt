@@ -6,15 +6,15 @@ S.No.     Names                                  Roles
 
 1              sravya kandepu   -           a. Primary contact 
 
-                                                         b.Communications and documentation management
+                                            b.Communications and documentation management
 
-2              nitheesha Kotagiri  -         Quality and testing management
+2              nitheesha Kotagiri  -        Quality and testing management
 
-3              nikhil vemula     -              Data management
+3              nikhil vemula     -          Data management
 
 4              harika malempati -           Issues management
 
-5              sanket selokar -               Requirements management
+5              sanket selokar -             Requirements management
 
 6              saikiran gandam -            Client management
 
@@ -22,7 +22,7 @@ Responsibilities:
 
 Nitheesha Responsibilities:  I am taking the responsibility to maintaining quality throughout the software developing life cycle to deliver effective output. To achieve the qualitative deliverables testing place an important role. I will take the responsibilities to test project in each module.
 
-Sravya Responsibilities –  I am going to act as a primary contact with client. I will represent the whole team and communicates with client regarding project requirements, progression, changes and completion.
+Sravya Responsibilities â€“  I am going to act as a primary contact with client. I will represent the whole team and communicates with client regarding project requirements, progression, changes and completion.
 
 I am also taking the responsibility of communication and documentation management and it includes updating all changes and tracking project progression in different versions. 
 
@@ -34,5 +34,6 @@ Nikhil responsibilities: I will take care of the collecting, storing and managin
 
 Sai Kiran responsibilities: I take the responsibility of meeting, getting requirements from client and also giving updates to the client.
 
+This is updated in github for practice
 
 
